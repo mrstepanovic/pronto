@@ -1,4 +1,4 @@
 # pronto analysis directory
 --
-MODIFIED
-* This is the first bullet of a list!
+* This is the first bullet of a list.
+* This is the second bullet of a list.
